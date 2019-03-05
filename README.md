@@ -2,7 +2,7 @@
 
 Player simples de músicas desenvolvido em C++ com o framework QT
 
-##Features
+## Features
 
 - Carrega a lista de músicas da pasta escolhida
 - Opções de navegação Foward e Next
